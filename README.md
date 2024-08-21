@@ -3,7 +3,7 @@
 ## Dataset
 The dataset used for this project includes spiral and wave drawings. Due to its large size, the dataset is hosted on Google Drive.
 
-[Download the Dataset from Google Drive](https://drive.google.com/drive/folders/1h3Th-fPh7p7G901MFGrCYuZ9PAp0vCGW?usp=drive_link)
+[Download the Dataset from Google Drive](https://drive.google.com/drive/folders/1_mZaSPVuNGxIUGlp777eaxW5R-Ef_Ild?usp=drive_link)
 
 # What is Parkinson's disease?
 - Parkinson's disease is a progressive neurological disorder that affects movement.
